@@ -1,0 +1,5 @@
+# Robots.txt for Satik Pharmaceuticals Pvt. Ltd.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.satikpharmaceuticals.com/sitemap.xml

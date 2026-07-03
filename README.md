@@ -7,7 +7,7 @@ It provides an easy and user-friendly platform to browse medicines, view product
 
 ## 📸 Project Preview (Thumbnail)
 
-![Pharmacy Website Preview](pharmacy.png)
+![Pharmacy Website Preview](preview.png)
 
 ---
 
